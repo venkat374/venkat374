@@ -6,9 +6,7 @@
 </p>
 
 ## 🚀 About Me
-- Passionate about Web Development and Mobile Apps.
 - 🌱 Currently learning **React** and **Node.js**.
-- 💻 I love contributing to open-source projects.
 
 ## 🔧 Languages and Tools
 <p align="left">
