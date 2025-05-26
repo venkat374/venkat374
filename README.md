@@ -56,3 +56,7 @@
 
 - 📝 **DocAssist**: [DocAssist Repository](https://github.com/venkat374/DocAssist)  
   An intelligent document assistant for organizing and managing documents, providing search functionality and smart categorization. Built with **Python** and **OCR**.
+
+- 📚 **Course Tracker**: [Course Tracker Repository](https://github.com/venkat374/course-tracker)  
+  A full-stack MERN application to track your online courses — add, edit, delete courses with progress tracking and JWT-based authentication. Built with **React**, **Node.js**, **Express**, and **MongoDB**.
+
